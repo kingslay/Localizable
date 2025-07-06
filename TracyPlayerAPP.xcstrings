@@ -208,6 +208,9 @@
     "AVSampleBufferAudioRenderer" : {
       "shouldTranslate" : false
     },
+    "Background Color" : {
+
+    },
     "Bold" : {
       "localizations" : {
         "en" : {
@@ -303,6 +306,9 @@
           }
         }
       }
+    },
+    "Connection Keep Alive" : {
+
     },
     "Copy url" : {
       "localizations" : {
@@ -415,6 +421,9 @@
           }
         }
       }
+    },
+    "Double Refresh Rate" : {
+
     },
     "Dovi Hardware decoder" : {
       "localizations" : {
@@ -863,6 +872,9 @@
           }
         }
       }
+    },
+    "Is Use New SubtitleRender" : {
+
     },
     "Italic" : {
       "localizations" : {
@@ -1347,6 +1359,9 @@
         }
       }
     },
+    "Save Playback History" : {
+
+    },
     "Schema demo" : {
       "localizations" : {
         "en" : {
@@ -1410,6 +1425,12 @@
           }
         }
       }
+    },
+    "Shadow Color" : {
+
+    },
+    "Show Developer HUD Log" : {
+
     },
     "Show Translate Source Text" : {
       "localizations" : {
@@ -1516,6 +1537,9 @@
           }
         }
       }
+    },
+    "Text Color" : {
+
     },
     "Translation Target Language" : {
       "localizations" : {
