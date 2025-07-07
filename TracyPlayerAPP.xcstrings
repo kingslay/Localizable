@@ -3,10 +3,10 @@
   "strings" : {
     "Add Drive" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Add Drive"
+            "value" : "إضافة Drive"
           }
         },
         "zh-Hans" : {
@@ -19,10 +19,10 @@
     },
     "Add Local M3U" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Add Local M3U"
+            "value" : "إضافة M3U محليًا"
           }
         },
         "zh-Hans" : {
@@ -35,10 +35,10 @@
     },
     "Advanced" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Advanced"
+            "value" : "عام"
           }
         },
         "zh-Hans" : {
@@ -51,10 +51,10 @@
     },
     "Align X" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Align X"
+            "value" : "محاذاة X"
           }
         },
         "zh-Hans" : {
@@ -67,10 +67,10 @@
     },
     "Align Y" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Align Y"
+            "value" : "محاذاة Y"
           }
         },
         "zh-Hans" : {
@@ -83,10 +83,10 @@
     },
     "All" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "All"
+            "value" : "الجميع"
           }
         },
         "zh-Hans" : {
@@ -99,10 +99,10 @@
     },
     "Asynchronous Decompression" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Asynchronous Decompression"
+            "value" : "فك الضغط غير المتزامن"
           }
         },
         "zh-Hans" : {
@@ -115,10 +115,10 @@
     },
     "Audio" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Audio"
+            "value" : "الصوت"
           }
         },
         "zh-Hans" : {
@@ -131,10 +131,10 @@
     },
     "Audio Filters" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Audio Filters"
+            "value" : "فلتر الصوت"
           }
         },
         "zh-Hans" : {
@@ -147,10 +147,10 @@
     },
     "Audio Player Type" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Audio Player Type"
+            "value" : "نوع مشغل الصوت"
           }
         },
         "zh-Hans" : {
@@ -163,10 +163,10 @@
     },
     "Audio Recognize Locales" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Audio Recognize Locales"
+            "value" : "التعرف على الصوت"
           }
         },
         "zh-Hans" : {
@@ -185,10 +185,10 @@
     },
     "Auto Play" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Auto Play"
+            "value" : "التشغيل التلقائي"
           }
         },
         "zh-Hans" : {
@@ -209,14 +209,21 @@
       "shouldTranslate" : false
     },
     "Background Color" : {
-
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لون الخلفية"
+          }
+        }
+      }
     },
     "Bold" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bold"
+            "value" : "عريض"
           }
         },
         "zh-Hans" : {
@@ -229,10 +236,10 @@
     },
     "Caching viewed content(limit size)" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caching viewed content (limit size)"
+            "value" : "تخزين المحتوى المعروض مؤقتًا (حد الحجم)"
           }
         },
         "zh-Hans" : {
@@ -245,10 +252,10 @@
     },
     "Caching viewed content(not litmit size)" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caching viewed content (no size limit)"
+            "value" : "تخزين المحتوى المعروض مؤقتًا (لا حدود للحجم)"
           }
         },
         "zh-Hans" : {
@@ -261,10 +268,10 @@
     },
     "Can Background Play" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Can Background Play"
+            "value" : "يمكن تشغيل الخلفية"
           }
         },
         "zh-Hans" : {
@@ -277,10 +284,10 @@
     },
     "Cancel" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cancel"
+            "value" : "إلغاء"
           }
         },
         "zh-Hans" : {
@@ -293,10 +300,10 @@
     },
     "Cancel favorite" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cancel favorite"
+            "value" : "إلغاء المفضلة"
           }
         },
         "zh-Hans" : {
@@ -308,14 +315,21 @@
       }
     },
     "Connection Keep Alive" : {
-
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اتصال مستمر"
+          }
+        }
+      }
     },
     "Copy url" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Copy URL"
+            "value" : "نسخ عنوان URL"
           }
         },
         "zh-Hans" : {
@@ -328,10 +342,10 @@
     },
     "Default" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Default"
+            "value" : "الافتراضي"
           }
         },
         "zh-Hans" : {
@@ -344,10 +358,10 @@
     },
     "Delete" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Delete"
+            "value" : "مسح"
           }
         },
         "zh-Hans" : {
@@ -360,10 +374,10 @@
     },
     "Device HDR Modes" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Device HDR Modes"
+            "value" : "وضع HDR"
           }
         },
         "zh-Hans" : {
@@ -376,10 +390,10 @@
     },
     "Disk Cache Video In Playing" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Disk Cache Video In Playing"
+            "value" : "ذاكرة التخزين المؤقتة"
           }
         },
         "zh-Hans" : {
@@ -392,10 +406,10 @@
     },
     "Do you want to make the link you added public? It is public by default. All people can see it. But only you can modify and delete" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Do you want to make the link you added public? It is public by default. All people can see it. But only you can modify and delete"
+            "value" : "هل تريد جعل الرابط الذي أضفته عامًا؟ إنه عام بشكل افتراضي. يمكن لجميع الأشخاص رؤيته. لكنك وحدك يمكنك تعديله وحذفه"
           }
         },
         "zh-Hans" : {
@@ -408,10 +422,10 @@
     },
     "Done" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Done"
+            "value" : "تم"
           }
         },
         "zh-Hans" : {
@@ -423,14 +437,21 @@
       }
     },
     "Double Refresh Rate" : {
-
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "معدل التحديث المزدوج"
+          }
+        }
+      }
     },
     "Dovi Hardware decoder" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dovi Hardware Decoder"
+            "value" : "فك تشفير الأجهزة"
           }
         },
         "zh-Hans" : {
@@ -443,10 +464,10 @@
     },
     "Enable audio VideoClock Sync" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Enable Audio VideoClock Sync"
+            "value" : "تمكين مزامنة الفيديو والصوت"
           }
         },
         "zh-Hans" : {
@@ -459,10 +480,10 @@
     },
     "Enable deInterlace Add Idet" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Enable Deinterlace (Add IDET)"
+            "value" : "تمكين إلغاء التداخل (إضافة IDET)"
           }
         },
         "zh-Hans" : {
@@ -475,10 +496,10 @@
     },
     "Enable displayLink preferredFrame" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Enable DisplayLink PreferredFrame"
+            "value" : "تمكين إطار العرض المفضل لـ شاشة العرض"
           }
         },
         "zh-Hans" : {
@@ -491,10 +512,10 @@
     },
     "Fast Open Video" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fast Open Video"
+            "value" : "فيديو سريع الفتح"
           }
         },
         "zh-Hans" : {
@@ -507,10 +528,10 @@
     },
     "Favorite" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Favorite"
+            "value" : "مفضل"
           }
         },
         "zh-Hans" : {
@@ -523,10 +544,10 @@
     },
     "FeedBack" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Feedback"
+            "value" : "تعليق"
           }
         },
         "zh-Hans" : {
@@ -539,10 +560,10 @@
     },
     "File Type" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "File Type"
+            "value" : "نوع الملف"
           }
         },
         "zh-Hans" : {
@@ -555,10 +576,10 @@
     },
     "Files" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Files"
+            "value" : "الملفات"
           }
         },
         "zh-Hans" : {
@@ -571,10 +592,10 @@
     },
     "First Player Type" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "First Player Type"
+            "value" : "نوع المشغل الأول"
           }
         },
         "zh-Hans" : {
@@ -587,10 +608,10 @@
     },
     "Font" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Font"
+            "value" : "الخط"
           }
         },
         "zh-Hans" : {
@@ -603,10 +624,10 @@
     },
     "Font Name" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Font Name"
+            "value" : "اسم الخط"
           }
         },
         "zh-Hans" : {
@@ -619,10 +640,10 @@
     },
     "Font Size" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Font Size"
+            "value" : "حجم الخط"
           }
         },
         "zh-Hans" : {
@@ -635,10 +656,10 @@
     },
     "General" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "General"
+            "value" : "عام"
           }
         },
         "zh-Hans" : {
@@ -651,10 +672,10 @@
     },
     "Group filter" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Group Filter"
+            "value" : "عامل تصفية المجموعة"
           }
         },
         "zh-Hans" : {
@@ -667,10 +688,10 @@
     },
     "Hardware decoder" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hardware Decoder"
+            "value" : "فك تشفير الأجهزة"
           }
         },
         "zh-Hans" : {
@@ -683,10 +704,10 @@
     },
     "History URL" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "History URL"
+            "value" : "رابط التاريخ"
           }
         },
         "zh-Hans" : {
@@ -699,10 +720,10 @@
     },
     "Home" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Home"
+            "value" : "الصفحة الرئيسية"
           }
         },
         "zh-Hans" : {
@@ -715,10 +736,10 @@
     },
     "Host" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Host"
+            "value" : "العنوان"
           }
         },
         "zh-Hans" : {
@@ -731,10 +752,10 @@
     },
     "HTTP Authentication" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "HTTP Authentication"
+            "value" : "مصادقة HTTP"
           }
         },
         "zh-Hans" : {
@@ -747,10 +768,10 @@
     },
     "Http User Agent" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "HTTP User Agent"
+            "value" : "وكيل مستخدم HTTP"
           }
         },
         "zh-Hans" : {
@@ -763,10 +784,10 @@
     },
     "Is Accurate Seek" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Is Accurate Seek"
+            "value" : "هل البحث دقيق"
           }
         },
         "zh-Hans" : {
@@ -779,10 +800,10 @@
     },
     "Is ASS Use Image Render" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Is ASS Use Image Render"
+            "value" : "استخدم ASS"
           }
         },
         "zh-Hans" : {
@@ -795,10 +816,10 @@
     },
     "Is force play ISO Blu-ray disc" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Force Play ISO Blu-ray Disc"
+            "value" : "قوة التشغيل ISO قرص Blu-ray"
           }
         },
         "zh-Hans" : {
@@ -811,10 +832,10 @@
     },
     "Is Https" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Is HTTPS"
+            "value" : "هل HTTPS"
           }
         },
         "zh-Hans" : {
@@ -827,10 +848,10 @@
     },
     "Is Low Delay" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Is Low Delay"
+            "value" : "هل التأخير منخفض"
           }
         },
         "zh-Hans" : {
@@ -843,10 +864,10 @@
     },
     "Is Select Max BitRate Track" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Select Max Bitrate Track"
+            "value" : "تحديد مسار معدل البت الأقصى"
           }
         },
         "zh-Hans" : {
@@ -859,10 +880,10 @@
     },
     "is SRT Use Image Render" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Is SRT Use Image Render"
+            "value" : "استخدم SRT"
           }
         },
         "zh-Hans" : {
@@ -874,14 +895,21 @@
       }
     },
     "Is Use New SubtitleRender" : {
-
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أستخدم SubtitleRender الجديد"
+          }
+        }
+      }
     },
     "Italic" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Italic"
+            "value" : "مائل"
           }
         },
         "zh-Hans" : {
@@ -900,6 +928,12 @@
     },
     "Log file" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ملف السجل"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -910,10 +944,10 @@
     },
     "Loop Play" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Loop Play"
+            "value" : "تشغيل الحلقة"
           }
         },
         "zh-Hans" : {
@@ -926,10 +960,10 @@
     },
     "Margin Left" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Margin Left"
+            "value" : "الهامش الأيسر"
           }
         },
         "zh-Hans" : {
@@ -942,10 +976,10 @@
     },
     "Margin Right" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Margin Right"
+            "value" : "الهامش الأيمن"
           }
         },
         "zh-Hans" : {
@@ -958,10 +992,10 @@
     },
     "Margin Vertical" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Margin Vertical"
+            "value" : "الهامش العمودي"
           }
         },
         "zh-Hans" : {
@@ -974,10 +1008,10 @@
     },
     "Max Buffer Second" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Max Buffer Second"
+            "value" : "أقصى حجم للتخزين المؤقت في الثانية"
           }
         },
         "zh-Hans" : {
@@ -990,10 +1024,10 @@
     },
     "Name" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Name"
+            "value" : "الاسم"
           }
         },
         "zh-Hans" : {
@@ -1006,10 +1040,10 @@
     },
     "None" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "None"
+            "value" : "لا يوجد"
           }
         },
         "zh-Hans" : {
@@ -1022,10 +1056,10 @@
     },
     "Not Cache" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Not Cache"
+            "value" : "ليس ذاكرة التخزين المؤقتة"
           }
         },
         "zh-Hans" : {
@@ -1037,14 +1071,21 @@
       }
     },
     "Opacity: %lld%%" : {
-
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التعتيم%lld"
+          }
+        }
+      }
     },
     "Open" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Open"
+            "value" : "فتح"
           }
         },
         "zh-Hans" : {
@@ -1057,10 +1098,10 @@
     },
     "Open File" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Open File"
+            "value" : "فتح الملف"
           }
         },
         "zh-Hans" : {
@@ -1073,10 +1114,10 @@
     },
     "Open URL" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Open URL"
+            "value" : "فتح الرابط"
           }
         },
         "zh-Hans" : {
@@ -1089,10 +1130,10 @@
     },
     "Optional" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Optional"
+            "value" : "اختياري"
           }
         },
         "zh-Hans" : {
@@ -1105,10 +1146,10 @@
     },
     "Password" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Password"
+            "value" : "كلمة المرور"
           }
         },
         "zh-Hans" : {
@@ -1121,10 +1162,10 @@
     },
     "Path" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Path"
+            "value" : "المسار"
           }
         },
         "zh-Hans" : {
@@ -1137,10 +1178,10 @@
     },
     "Picture In Picture Inline" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Picture in Picture Inline"
+            "value" : "صورة داخل صورة"
           }
         },
         "zh-Hans" : {
@@ -1153,10 +1194,10 @@
     },
     "Picture In Picture Type" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Picture in Picture Type"
+            "value" : "نوع الصورة داخل الصورة"
           }
         },
         "zh-Hans" : {
@@ -1169,10 +1210,10 @@
     },
     "Player" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Player"
+            "value" : "مشغل"
           }
         },
         "zh-Hans" : {
@@ -1185,10 +1226,10 @@
     },
     "Please select one share to connect" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Please select one share to connect"
+            "value" : "يرجى تحديد مشاركة واحدة للاتصال"
           }
         },
         "zh-Hans" : {
@@ -1201,10 +1242,10 @@
     },
     "Pop ViewController" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pop ViewController"
+            "value" : "عرض وحدة تحكم العرض"
           }
         },
         "zh-Hans" : {
@@ -1217,10 +1258,10 @@
     },
     "Pop ViewController(in APP)" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pop ViewController (in App)"
+            "value" : "عرض وحدة تحكم العرض(في التطبيق)"
           }
         },
         "zh-Hans" : {
@@ -1233,10 +1274,10 @@
     },
     "Port" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Port"
+            "value" : "المنفذ"
           }
         },
         "zh-Hans" : {
@@ -1249,10 +1290,10 @@
     },
     "Position" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Position"
+            "value" : "العنوان"
           }
         },
         "zh-Hans" : {
@@ -1265,10 +1306,10 @@
     },
     "Preferred Forward Buffer Duration" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Preferred Forward Buffer Duration"
+            "value" : "مدة المخزن المؤقت الأمامي المفضل"
           }
         },
         "zh-Hans" : {
@@ -1281,10 +1322,10 @@
     },
     "Preloading video content(limit size)" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Preloading Video Content (Limit Size)"
+            "value" : "تحميل محتوى الفيديو (تحديد الحجم)"
           }
         },
         "zh-Hans" : {
@@ -1297,10 +1338,10 @@
     },
     "Preloading video content(not litmit size)" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Preloading Video Content (No Size Limit)"
+            "value" : "تحميل محتوى الفيديو (بلا حد)"
           }
         },
         "zh-Hans" : {
@@ -1313,10 +1354,10 @@
     },
     "Record Video" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Record Video"
+            "value" : "تسجيل الفيديو"
           }
         },
         "zh-Hans" : {
@@ -1329,10 +1370,10 @@
     },
     "Remember URL" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Remember URL"
+            "value" : "تذكر عنوان URL"
           }
         },
         "zh-Hans" : {
@@ -1345,10 +1386,10 @@
     },
     "Save Cache Video" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Save Cache Video"
+            "value" : "حفظ ملفات الفيديو المؤقتة"
           }
         },
         "zh-Hans" : {
@@ -1360,14 +1401,21 @@
       }
     },
     "Save Playback History" : {
-
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حفظ سجل التشغيل"
+          }
+        }
+      }
     },
     "Schema demo" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schema Demo"
+            "value" : "مخطط العرض التوضيحي"
           }
         },
         "zh-Hans" : {
@@ -1380,10 +1428,10 @@
     },
     "Seek Image Subtitle" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Seek Image Subtitle"
+            "value" : "البحث عن ترجمة الصورة"
           }
         },
         "zh-Hans" : {
@@ -1396,10 +1444,10 @@
     },
     "Seek Use Packet Cache" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Seek Use Packet Cache"
+            "value" : "البحث عن استخدام ذاكرة التخزين المؤقت للبيانات"
           }
         },
         "zh-Hans" : {
@@ -1412,10 +1460,10 @@
     },
     "Setting" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Settings"
+            "value" : "الإعدادات"
           }
         },
         "zh-Hans" : {
@@ -1427,17 +1475,31 @@
       }
     },
     "Shadow Color" : {
-
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لون الظل"
+          }
+        }
+      }
     },
     "Show Developer HUD Log" : {
-
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عرض سجل HUD للمطور"
+          }
+        }
+      }
     },
     "Show Translate Source Text" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Show Translate Source Text"
+            "value" : "إظهار نص المصدر المترجم"
           }
         },
         "zh-Hans" : {
@@ -1450,10 +1512,10 @@
     },
     "Show URLImport" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Show URL Import"
+            "value" : "إظهار استيراد عنوان URL"
           }
         },
         "zh-Hans" : {
@@ -1466,6 +1528,12 @@
     },
     "Sponsor" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الراعي"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1476,10 +1544,10 @@
     },
     "Start" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Start"
+            "value" : "ابدأ"
           }
         },
         "zh-Hans" : {
@@ -1492,10 +1560,10 @@
     },
     "Stop" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stop"
+            "value" : "إيقاف"
           }
         },
         "zh-Hans" : {
@@ -1508,10 +1576,10 @@
     },
     "Strip Subtitle Style" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Strip Subtitle Style"
+            "value" : "نمط الترجمة"
           }
         },
         "zh-Hans" : {
@@ -1524,10 +1592,10 @@
     },
     "Subtitle" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Subtitle"
+            "value" : "ترجمة"
           }
         },
         "zh-Hans" : {
@@ -1539,14 +1607,21 @@
       }
     },
     "Text Color" : {
-
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لون النص"
+          }
+        }
+      }
     },
     "Translation Target Language" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Translation Target Language"
+            "value" : "لغة الترجمة"
           }
         },
         "zh-Hans" : {
@@ -1559,10 +1634,10 @@
     },
     "URL" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "URL"
+            "value" : "عنوان URL"
           }
         },
         "zh-Hans" : {
@@ -1575,10 +1650,10 @@
     },
     "Use DisplayLayer" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Use DisplayLayer"
+            "value" : "استخدم واجهة العرض"
           }
         },
         "zh-Hans" : {
@@ -1591,10 +1666,10 @@
     },
     "Username" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Username"
+            "value" : "اسم المستخدم"
           }
         },
         "zh-Hans" : {
@@ -1607,10 +1682,10 @@
     },
     "Video" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Video"
+            "value" : "فيديو"
           }
         },
         "zh-Hans" : {
@@ -1623,10 +1698,10 @@
     },
     "Video Filters" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Video Filters"
+            "value" : "فلتر الفيديو"
           }
         },
         "zh-Hans" : {
@@ -1639,10 +1714,10 @@
     },
     "Video Soft Decode Thread Count" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Video Soft Decode Thread Count"
+            "value" : "عدد خيوط فك التشفير الناعم للفيديو"
           }
         },
         "zh-Hans" : {
@@ -1655,7 +1730,7 @@
     },
     "Yadif" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Yadif"
@@ -1671,10 +1746,10 @@
     },
     "Yadif Mode" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yadif Mode"
+            "value" : "وضع Yadif"
           }
         },
         "zh-Hans" : {
@@ -1687,7 +1762,7 @@
     },
     "Yadif_2x" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Yadif_2x"
@@ -1703,7 +1778,7 @@
     },
     "Yadif_2x_spatial_skip" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Yadif_2x_spatial_skip"
@@ -1719,7 +1794,7 @@
     },
     "Yadif_spatial_skip" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Yadif_spatial_skip"

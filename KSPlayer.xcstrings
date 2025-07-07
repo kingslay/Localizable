@@ -2,20 +2,27 @@
   "sourceLanguage" : "en",
   "strings" : {
     "Add Subtitle" : {
-
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إضافة ترجمة"
+          }
+        }
+      }
     },
     "AirPlay 投放中" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "بث AirPlay"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "AirPlay wird gesendet"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "AirPlay Casting"
           }
         },
         "es" : {
@@ -35,27 +42,21 @@
             "state" : "translated",
             "value" : "AirPlay 正在播放"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "AirPlay 正在播放"
-          }
         }
       }
     },
     "Audio bitrate" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "معدل بت الصوت"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Audio-Bitrate"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Audio bitrate"
           }
         },
         "es" : {
@@ -75,28 +76,22 @@
             "state" : "translated",
             "value" : "音频比特率"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "音頻比特率"
-          }
         }
       }
     },
     "Audio Video sync" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مزامنة الصوت والفيديو"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Audio-Video-Synchronisation"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Audio video sync"
           }
         },
         "es" : {
@@ -116,30 +111,31 @@
             "state" : "translated",
             "value" : "音频视频同步"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "音頻視頻同步"
-          }
         }
       }
     },
     "Average Audio Video sync" : {
-
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "متوسط مزامنة الصوت والفيديو"
+          }
+        }
+      }
     },
     "brightness" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "السطوع"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Helligkeit"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Brightness"
           }
         },
         "es" : {
@@ -159,27 +155,21 @@
             "state" : "translated",
             "value" : "亮度"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "亮度"
-          }
         }
       }
     },
     "Bytes Read" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "بايتات مقروءة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gelesene Bytes"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bytes Read"
           }
         },
         "es" : {
@@ -199,27 +189,21 @@
             "state" : "translated",
             "value" : "已读取字节"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "已讀取字節"
-          }
         }
       }
     },
     "cancel" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إلغاء"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abbrechen"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cancel"
           }
         },
         "es" : {
@@ -239,30 +223,31 @@
             "state" : "translated",
             "value" : "取消"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "取消"
-          }
         }
       }
     },
     "Decode Type" : {
-
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نوع الترميز"
+          }
+        }
+      }
     },
     "Disabled" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تعطل"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Deaktiviert"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Disabled"
           }
         },
         "es" : {
@@ -282,28 +267,22 @@
             "state" : "translated",
             "value" : "已禁用"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "已禁用"
-          }
         }
       }
     },
     "Display FPS" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عرض FPS"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Anzeige-FPS"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Display FPS"
           }
         },
         "es" : {
@@ -323,27 +302,21 @@
             "state" : "translated",
             "value" : "显示FPS"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "顯示FPS"
-          }
         }
       }
     },
     "Done" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تم"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fertig"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Done"
           }
         },
         "es" : {
@@ -363,28 +336,22 @@
             "state" : "translated",
             "value" : "完成"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "完成"
-          }
         }
       }
     },
     "Dropped Frames" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إطارات مفقودة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verlorene Frames"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dropped frames"
           }
         },
         "es" : {
@@ -404,27 +371,21 @@
             "state" : "translated",
             "value" : "丟失幀"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "丟失幀"
-          }
         }
       }
     },
     "File Size" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حجم الملف"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dateigröße"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "File Size"
           }
         },
         "es" : {
@@ -444,27 +405,21 @@
             "state" : "translated",
             "value" : "文件大小"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "文件大小"
-          }
         }
       }
     },
     "Live Streaming" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "البث المباشر"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Live-Streaming"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Live Streaming"
           }
         },
         "es" : {
@@ -484,27 +439,21 @@
             "state" : "translated",
             "value" : "直播"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "直播"
-          }
         }
       }
     },
     "Loading..." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تحميل..."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wird geladen..."
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Loading..."
           }
         },
         "es" : {
@@ -524,27 +473,21 @@
             "state" : "translated",
             "value" : "加载中…"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "載入中…"
-          }
         }
       }
     },
     "Mute" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "كتم"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stummschalten"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mute"
           }
         },
         "es" : {
@@ -564,40 +507,41 @@
             "state" : "translated",
             "value" : "静音"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "靜音"
-          }
         }
       }
     },
     "NavigationTitle" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "NavigationTitle"
+            "value" : "عنوان التنقل"
           }
         }
       }
     },
     "Network Speed" : {
-
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "سرعة الشبكة"
+          }
+        }
+      }
     },
     "no show subtitle" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "بدون ترجمة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kein Untertitel"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "No subtitle"
           }
         },
         "es" : {
@@ -617,27 +561,21 @@
             "state" : "translated",
             "value" : "没有字幕"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "沒有字幕"
-          }
         }
       }
     },
     "Off" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إيقاف"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aus"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Off"
           }
         },
         "es" : {
@@ -657,27 +595,21 @@
             "state" : "translated",
             "value" : "关闭"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "關"
-          }
         }
       }
     },
     "Open File" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فتح الملف"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Datei öffnen"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Open File"
           }
         },
         "es" : {
@@ -697,27 +629,21 @@
             "state" : "translated",
             "value" : "打开文件"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "打開文件"
-          }
         }
       }
     },
     "Open URL" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فتح الرابط"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "URL öffnen"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Open URL"
           }
         },
         "es" : {
@@ -737,27 +663,15 @@
             "state" : "translated",
             "value" : "打开网址"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "打開網址"
-          }
         }
       }
     },
     "Pause" : {
       "localizations" : {
-        "de" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pause"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pause"
+            "value" : "توقف مؤقت"
           }
         },
         "es" : {
@@ -766,48 +680,36 @@
             "value" : "Pausar"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pause"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "暂停"
-          }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "暫停"
           }
         }
       }
     },
     "Plane" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Plane"
+            "value" : "مستوى"
           }
         }
       }
     },
     "PlayBack" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تشغيل"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wiedergabe"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Playback"
           }
         },
         "es" : {
@@ -827,27 +729,21 @@
             "state" : "translated",
             "value" : "播放"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "播放"
-          }
         }
       }
     },
     "Resume" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "استئناف"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fortsetzen"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Resume"
           }
         },
         "es" : {
@@ -867,27 +763,21 @@
             "state" : "translated",
             "value" : "继续"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "恢復"
-          }
         }
       }
     },
     "Search Subtitle" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "بحث عن الترجمة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Untertitel suchen"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Search subtitle"
           }
         },
         "es" : {
@@ -907,27 +797,21 @@
             "state" : "translated",
             "value" : "搜索字幕"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "搜尋字幕"
-          }
         }
       }
     },
     "select speed" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اختر السرعة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geschwindigkeit auswählen"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Select speed"
           }
         },
         "es" : {
@@ -947,27 +831,21 @@
             "state" : "translated",
             "value" : "选择速度"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "選擇速度"
-          }
         }
       }
     },
     "select video quality" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حدد جودة الفيديو"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Videoqualität auswählen"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Select video quality"
           }
         },
         "es" : {
@@ -987,27 +865,21 @@
             "state" : "translated",
             "value" : "选择视频质量"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "選擇視頻質量"
-          }
         }
       }
     },
     "speed" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "سرعة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geschwindigkeit"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Speed"
           }
         },
         "es" : {
@@ -1027,33 +899,41 @@
             "state" : "translated",
             "value" : "速度"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "速度"
-          }
         }
       }
     },
     "Stream Name" : {
-
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اسم البث"
+          }
+        }
+      }
     },
     "Stream Type" : {
-
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نوع البث"
+          }
+        }
+      }
     },
     "subtitle" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الترجمة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Untertitel"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Subtitle"
           }
         },
         "es" : {
@@ -1073,27 +953,21 @@
             "state" : "translated",
             "value" : "字幕"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "字幕"
-          }
         }
       }
     },
     "Subtitle delay" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تأخير الترجمة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Untertitel-Verzögerung"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Subtitle delay"
           }
         },
         "es" : {
@@ -1113,27 +987,21 @@
             "state" : "translated",
             "value" : "字幕延迟"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "字幕延遲"
-          }
         }
       }
     },
     "switch audio" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تبديل الصوت"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Audio wechseln"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Switch audio"
           }
         },
         "es" : {
@@ -1153,27 +1021,21 @@
             "state" : "translated",
             "value" : "切换音频"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "切換音頻"
-          }
         }
       }
     },
     "switch video" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تبديل الفيديو"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Video wechseln"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Switch video"
           }
         },
         "es" : {
@@ -1193,27 +1055,21 @@
             "state" : "translated",
             "value" : "切换视频"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "切換視頻"
-          }
         }
       }
     },
     "Title" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "العنوان"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Titel"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Title"
           }
         },
         "es" : {
@@ -1233,27 +1089,21 @@
             "state" : "translated",
             "value" : "标题"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "標題"
-          }
         }
       }
     },
     "Unmute" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إلغاء كتم"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ton aktivieren"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unmute"
           }
         },
         "es" : {
@@ -1273,27 +1123,21 @@
             "state" : "translated",
             "value" : "取消静音"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "取消靜音"
-          }
         }
       }
     },
     "Video bitrate" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "معدل بث الفيديو"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Video-Bitrate"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Video bitrate"
           }
         },
         "es" : {
@@ -1313,28 +1157,22 @@
             "state" : "translated",
             "value" : "视频比特率"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "視頻比特率"
-          }
         }
       }
     },
     "Video Display Type" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نوع عرض الفيديو"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Videoanzeigetyp"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Video Display Type"
           }
         },
         "es" : {
@@ -1354,27 +1192,21 @@
             "state" : "translated",
             "value" : "视频显示类型"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "視頻顯示類型"
-          }
         }
       }
     },
     "video quality" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "جودة الفيديو"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Videoqualität"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Video quality"
           }
         },
         "es" : {
@@ -1394,27 +1226,21 @@
             "state" : "translated",
             "value" : "视频质量"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "視頻質量"
-          }
         }
       }
     },
     "Video Track" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مسار الفيديو"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Video-Track"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Video track"
           }
         },
         "es" : {
@@ -1434,27 +1260,21 @@
             "state" : "translated",
             "value" : "视频质量"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "視頻軌道"
-          }
         }
       }
     },
     "Video Type" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نوع الفيديو"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Video-Typ"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Video type"
           }
         },
         "es" : {
@@ -1474,27 +1294,21 @@
             "state" : "translated",
             "value" : "视频类型"
           }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "視頻類型"
-          }
         }
       }
     },
     "volume" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مستوى الصوت"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lautstärke"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Volume"
           }
         },
         "es" : {
@@ -1503,19 +1317,7 @@
             "value" : "Volumen"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Volume"
-          }
-        },
         "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "音量"
-          }
-        },
-        "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "音量"
@@ -1525,17 +1327,17 @@
     },
     "VR" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "VR"
+            "value" : "الواقع الافتراضيVR"
           }
         }
       }
     },
     "VRBox" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "VRBox"
